@@ -4,7 +4,7 @@ A real-time cryptocurrency price tracking application built with React and Redux
 
 Project LINK : crypto-price-tracker-gold-eight.vercel.app
 
-
+..
 ## Features
 
 - Real-time price updates (simulated WebSocket)
